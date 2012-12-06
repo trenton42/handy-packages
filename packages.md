@@ -1,5 +1,6 @@
 * [appdirs](http://pypi.python.org/pypi/appdirs/) store user data in the right spot on different platforms
 * [APScheduler](http://pypi.python.org/pypi/APScheduler/2.0.3) In-process task scheduler with Cron-like capabilities
+* [blessings](http://pypi.python.org/pypi/blessings/) A thin, practical wrapper around terminal coloring, styling, and positioning
 * [boto](https://github.com/boto/boto) Python interface to Amazon Web Services.
 * [cmd2](http://pypi.python.org/pypi/cmd2/) create better shells
 * [elementflow](http://pypi.python.org/pypi/elementflow/)  xml creation
