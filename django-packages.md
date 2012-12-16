@@ -1,4 +1,5 @@
 django-admin-tools - extension for admin app
+django-annoying
 django-bootstrap-form (render forms in bootstrap markup)
 django-bootstrap-pagination (render pagination objects in bootstrap markup)
 django-celery - task queue for django
@@ -20,6 +21,8 @@ django-picklefield - store any object as a db field
 django-redis-cache (in combo with redis)
 django-sendsms - sending sms, with backends
 django-taggit - tags
+django-typogrify
 django-userena
 factory-boy - generating model data in your tests
 phonenumbers - not django, but it's awesome when you need to parse phone numbers
+south
