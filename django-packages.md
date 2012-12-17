@@ -23,5 +23,5 @@ Mostly found on reddit
 [django-typogrify](https://github.com/chrisdrackett/django-typogrify)   
 [django-userena](http://www.django-userena.org/) full account management   
 [factory-boy](https://github.com/dnerdy/factory_boy) - generating model data in your tests  
-[phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - not django, but it's awesome when you need to parse phone numbers
+[phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - not django, but it's awesome when you need to parse phone numbers  
 [south](http://south.aeracode.org/) Database schema migration  
