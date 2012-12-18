@@ -13,5 +13,6 @@
 * [psutil](http://pypi.python.org/pypi/psutil) interface for retrieving information on all running processes and system utilization
 * [PubSub](http://pubsub.sourceforge.net/index.html) In process messaging. Publisher/Subscriber (formally part of wxPython)
 * [Requests](http://docs.python-requests.org/en/latest/) HTTP for humans
+    * [treq](https://github.com/dreid/treq) Twisted HTTP for humans
 * [tablib](https://github.com/kennethreitz/tablib) Python Module for Tabular Datasets in XLS, CSV, JSON, YAML
 * [vobject](http://pypi.python.org/pypi/vobject) read vCard and vCalendar files
